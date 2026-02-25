@@ -1,39 +1,28 @@
-# \# TypSpeed
+## TypSpeed
 
 # Turn your typing activity into a visual thrill.
 
-# 
 
-# TypSpeed is a lightweight, closed-source, widget-like Windows overlay that turns your typing speed into an animated car speedometer.
-
-# 
+TypSpeed is a lightweight, closed-source, widget-like Windows overlay that turns your typing speed into an animated car speedometer.
 
 # Mechanics
 
-# \- Type keys to accelerate the needle.
+- Type keys to accelerate the needle.
 
-# \- The app has 5 gears.
+- The app has 5 gears.
 
-# \- Higher gears increase the max speed limit.
+- Higher gears increase the max speed limit.
 
-# \- Higher gears require faster typing to reach top speed, so the needle moves slower.
+- Higher gears require faster typing to reach top speed, so the needle moves slower.
 
-# \- Reaching top speed in any gear vibrates the needle.
+- Reaching top speed in any gear vibrates the needle.
 
-# 
 
 # Controls
 
-# \- Any Key: Accelerate
+- Any Key: Accelerate
+- Shift (alone): Gear Up
+- Ctrl (alone): Gear Down
 
-# \- Shift (alone): Gear Up
-
-\- Ctrl (alone): Gear Down
-
-
-===
-
-# \*\*Developed by\*\*: Jayed Ahsan Saad | Codepotro
-
-# 
+Developed by: Jayed Ahsan Saad | Codepotro
 
