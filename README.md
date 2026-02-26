@@ -1,4 +1,5 @@
 ## TypSpeed
+![typspeed](https://github.com/user-attachments/assets/1bf25eac-2741-479b-bdf0-b48a258c2305)
 
 # Turn your typing activity into a visual thrill.
 
